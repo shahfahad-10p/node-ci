@@ -21,6 +21,6 @@ module.exports = [
   },
   {
     id: 6,
-    task: "Verify deployment"
+    task: "Verify app URL"
   }
 ];

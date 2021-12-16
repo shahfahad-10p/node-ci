@@ -1,14 +1,22 @@
 module.exports = [
   {
     id: 1,
-    task: "Fix Sink"
+    task: "Configure github"
   },
   {
     id: 2,
-    task: "Buy Groceries"
+    task: "Configure heroku"
   },
   {
     id: 3,
-    task: "Wash the dishes"
+    task: "Configure circleci"
+  },
+  {
+    id: 4,
+    task: "Integrate circleci with Heroku"
+  },
+  {
+    id: 5,
+    task: "Run pipeline with commit"
   }
 ];

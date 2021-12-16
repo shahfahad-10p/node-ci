@@ -18,5 +18,9 @@ module.exports = [
   {
     id: 5,
     task: "Run pipeline with commit"
+  },
+  {
+    id: 6,
+    task: "Verify deployment"
   }
 ];

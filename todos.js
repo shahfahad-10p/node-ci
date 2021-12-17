@@ -22,5 +22,9 @@ module.exports = [
   {
     id: 6,
     task: "Verify app URL"
+  },
+  {
+    id: 7,
+    task: "Another to do "
   }
 ];
